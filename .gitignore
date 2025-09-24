@@ -1,0 +1,18 @@
+
+
+# 忽略appsettings.json
+appsettings.json
+
+# 忽略 appsettings.Development.json
+appsettings.Development.json
+
+# 忽略 appsettings.Production
+appsettings.Production.json
+
+#忽略 obj、bin 目錄底下檔案
+obj/
+bin/
+
+
+#忽略.vs目錄底下東西
+.vs/
